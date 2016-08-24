@@ -9,5 +9,4 @@ bin/
 *.log
 *.dmp
 *.vcxproj.user
-*.txt
 *.log
